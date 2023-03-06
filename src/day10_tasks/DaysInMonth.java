@@ -8,7 +8,7 @@ public class DaysInMonth {
         int num;
 
 
-        System.out.println("Enter a month number ");
+        System.out.println("Enter a Month Number: ");
         int monthNumber= input.nextInt();
         String message ="";
 
