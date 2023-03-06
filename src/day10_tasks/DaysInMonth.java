@@ -6,8 +6,6 @@ public class DaysInMonth {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int num;
-
-
         System.out.println("Enter a Month Number: ");
         int monthNumber= input.nextInt();
         String message ="";

@@ -7,12 +7,9 @@ public class AgeGroups {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter your age: ");
+        System.out.print("Enter the age: ");
         double age = input.nextDouble();
         String message = "";
-
-
-
 
             if (age>=0 && age< 1) {
                 message="They are Infant.";
